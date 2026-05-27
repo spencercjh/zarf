@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.76.1](https://github.com/zarf-dev/zarf/compare/v0.76.0...v0.76.1) (2026-05-27)
+
+
+### Features
+
+* **sign:** support for keyless signing and offline verification ([#4891](https://github.com/zarf-dev/zarf/issues/4891)) ([d0b8665](https://github.com/zarf-dev/zarf/commit/d0b8665fd16c9c90f233cabefd584447bc02fb3f))
+
 ## [0.76.0](https://github.com/zarf-dev/zarf/compare/v0.75.1...v0.76.0) (2026-05-14)
 
 
